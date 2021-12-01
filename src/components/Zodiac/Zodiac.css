@@ -1,22 +1,26 @@
 .zodiac {
   width: 200px;
   margin: 10px;
-  border-radius: 5px;
+  border-radius: 20px;
   padding: 10px;
-  position: absolute;
-  color: var(--color1);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
+  color: gold;
+  border: goldenrod 2.5px dotted;
 }
 
 .zodiac img {
-  width: 150px;
+  width: 110px;
+  border: orangered 2px solid;
+  border-radius: 50%;
 }
 
 .zodiac .name {
   text-transform: uppercase;
   font-weight: bold;
+  font-size: 20px;
+  color: rgb(240, 102, 51);
 }

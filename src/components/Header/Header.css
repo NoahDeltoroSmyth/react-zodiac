@@ -1,8 +1,11 @@
 header {
-  color: var(--color5);
-  height: 40px;
-  background-color: var(--color3);
+  color: black;
+  height: 50px;
+  background-color: skyblue;
   display: flex;
   align-items: center;
-  padding-left: 20px;
+  justify-content: center;
+  font-family: cursive;
+  font-size: 25px;
+  background: linear-gradient(180deg, skyblue, goldenrod);
 }
