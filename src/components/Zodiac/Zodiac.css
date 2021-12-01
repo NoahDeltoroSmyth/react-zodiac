@@ -1,4 +1,4 @@
-.animal {
+.zodiac {
   width: 200px;
   margin: 10px;
   border-radius: 5px;
@@ -12,11 +12,11 @@
   text-align: center;
 }
 
-.animal img {
-  width: 100px;
+.zodiac img {
+  width: 150px;
 }
 
-.animal .name {
+.zodiac .name {
   text-transform: uppercase;
   font-weight: bold;
 }
